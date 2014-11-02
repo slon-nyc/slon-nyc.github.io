@@ -11,7 +11,6 @@ share: true
 image:
   feature: post1_feature.png
   teaser: post1_thumb.png
-  
 ---
 
 # Class aptent taciti.
