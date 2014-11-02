@@ -9,8 +9,8 @@ toc: false
 comments: false
 share: true
 image:
-  feature: post1_feature.png
-  teaser: post1_thumb.png
+  feature: post1_feature.jpg
+  teaser: post1_thumb.jpg
 ---
 
 # Class aptent taciti.
